@@ -1,15 +1,27 @@
-# This is my project title
+# CryptoDevsDAO
 
-This sentence describes what my project is about summarized.
+This DAO allows to CryptoDevsNFT Holders to create and vote on proposals. Within the DAO exists a Treasury Balance and the people could vote on the proposal to decide how will be used.
 
 ## More Details
 
-I can explain how my project works here with different topics.
+### What i use
+- Next.js
+- Solidity
+- Hardhat
+- Chai (test)
+- Web3Modal
+- Ethers.js
+- dotenv
 
-## Upcoming
+## ToDoList
 
-- [x] I have done this activity
-- [ ] I plan to do this activity next
+- [x] Create NFT whitelist
+- [x] Create CryptoDevsNFT
+- [x] Create CryptoDevToken
+- [x] Create Token Initial coin offering (ICO)
+- [x] Create FakeNFTMarketplace
+- [x] Create CryptoDevsDAO
+- [ ] Create a DEFI exchange 
 
 ## Contribution
 
@@ -19,7 +31,3 @@ Feel free to contribute to this project to make it better!
 
 This project has an MIT License.
 
-## Made by love
-
-- [StarterTemplates](https://twitter.com/startertemp)
-- [LearnWeb3DAO](https://learnweb3.io)
